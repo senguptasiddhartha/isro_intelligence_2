@@ -1,0 +1,8 @@
+{
+  "name": "Aditya-L1 Space Weather Monitoring Centre",
+  "description": "Scientific Solar Flare nowcasting, forecasting, and real-time analysis platform using Aditya-L1 (SoLEXS & HEL1OS) observations for ISRO scientists and researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
